@@ -5,7 +5,7 @@
 // @icon            https://s.ytimg.com/yts/img/favicon_96-vflW9Ec0w.png
 // @match           *://www.youtube.com/playlist?list=WL
 // @require         https://code.jquery.com/jquery-3.4.1.min.js
-// @version         1.0
+// @version         1.0.0
 // @author          javalinex
 // @license MIT
  
