@@ -1,4 +1,4 @@
-# Videos-Comment-Counter-on-Youtube-Playlist-pages
+# Videos Comment Counter on Youtube Playlist pages
 Print the number of comments for each video in youtube playlists
 
 ⚠️ REPLACE BOTH {{{{{{{{{{{{YOUR-API-KEY-HERE}}}}}}}}}}}}} WITH YOUR OWN API KEY.<br><br>
